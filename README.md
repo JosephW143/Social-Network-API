@@ -15,3 +15,6 @@ The purpose here was to create a backend API for a social network platofrm using
 * Node.js
 * Moment
 * JavaScript
+
+## Link to Walkthrough Video
+https://drive.google.com/file/d/1ETe6dg3FFfWGQiY4ijvQ_2qg_UxcAbQc/view
